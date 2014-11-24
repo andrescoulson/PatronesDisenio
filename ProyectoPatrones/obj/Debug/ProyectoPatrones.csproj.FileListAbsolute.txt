@@ -1,0 +1,10 @@
+c:\users\juan&andre\documents\visual studio 2013\Projects\ProyectoPatronesSolucion\ProyectoPatrones\bin\Debug\ProyectoPatrones.exe.config
+C:\Users\Juan&Andre\documents\visual studio 2013\Projects\ProyectoPatronesSolucion\ProyectoPatrones\obj\Debug\ProyectoPatrones.csprojResolveAssemblyReference.cache
+C:\Users\Juan&Andre\documents\visual studio 2013\Projects\ProyectoPatronesSolucion\ProyectoPatrones\obj\Debug\ProyectoPatrones.Properties.Resources.resources
+C:\Users\Juan&Andre\documents\visual studio 2013\Projects\ProyectoPatronesSolucion\ProyectoPatrones\obj\Debug\ProyectoPatrones.VentanaGestor.resources
+C:\Users\Juan&Andre\documents\visual studio 2013\Projects\ProyectoPatronesSolucion\ProyectoPatrones\obj\Debug\ProyectoPatrones.csproj.GenerateResource.Cache
+C:\Users\Juan&Andre\documents\visual studio 2013\Projects\ProyectoPatronesSolucion\ProyectoPatrones\bin\Debug\ProyectoPatrones.exe
+C:\Users\Juan&Andre\documents\visual studio 2013\Projects\ProyectoPatronesSolucion\ProyectoPatrones\bin\Debug\ProyectoPatrones.pdb
+C:\Users\Juan&Andre\documents\visual studio 2013\Projects\ProyectoPatronesSolucion\ProyectoPatrones\bin\Debug\OpenPop.dll
+C:\Users\Juan&Andre\documents\visual studio 2013\Projects\ProyectoPatronesSolucion\ProyectoPatrones\obj\Debug\ProyectoPatrones.exe
+C:\Users\Juan&Andre\documents\visual studio 2013\Projects\ProyectoPatronesSolucion\ProyectoPatrones\obj\Debug\ProyectoPatrones.pdb
